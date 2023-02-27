@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /home
+Allow: /page/*
+Allow: /page/*/*/*/*
+Allow: /file/*/*/*
+Allow: /cate/*
+Allow: /news/*/*/*
+Disallow: /admin/
+Sitemap: https://chon.go.th/cpao/sitemap.xml
